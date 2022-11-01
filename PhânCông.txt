@@ -1,0 +1,15 @@
+Phân công làm việc FU + AD + SD
+Nguyên Lộc
+- Quản lí bán hàng
+- Cập nhật giỏ hàng
+- Xem lịch sử giao dịch
+Quang Võ
+- Thống kê
+- Quản lý nhập hàng
+Thái Hùng
+- Quản lý mặt hàng
+- Xuất dữ liệu ra exce
+Quân Phạm
+- Đăng nhập
+- Quản lí nhân viên
+- Quản lí khách hàng
