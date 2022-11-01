@@ -1,6 +1,6 @@
 Phân công làm việc FU + AD + SD
 Nguyên Lộc
-- Quản lí bán hàng
+- Xử lí bán hàng
 - Cập nhật giỏ hàng
 - Xem lịch sử giao dịch
 Quang Võ
