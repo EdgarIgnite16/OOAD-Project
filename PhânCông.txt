@@ -1,5 +1,6 @@
 Phân công làm việc FU + AD + SD
 Nguyên Lộc
+- Đăng nhập
 - Xử lí bán hàng
 - Cập nhật giỏ hàng
 - Xem lịch sử giao dịch
@@ -10,6 +11,5 @@ Thái Hùng
 - Quản lý mặt hàng
 - Xuất dữ liệu ra exce
 Quân Phạm
-- Đăng nhập
 - Quản lí nhân viên
 - Quản lí khách hàng
