@@ -5,8 +5,9 @@ Nguyên Lộc
 - Quản lí nhân viên
 - Quản lí khách hàng
 Quang Võ
-- Thống kê
-- Quản lý nhập hàng
+- Xem chi tiết hoá đơn
+- Xem chi tiết phiếu nhập hàng
+- Nhập hàng
 Thái Hùng
 - Quản lý mặt hàng
 - Xuất dữ liệu ra excel
