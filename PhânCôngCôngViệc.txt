@@ -1,0 +1,21 @@
+Phân công làm việc FU + AD + SD
+Nguyên Lộc
+- Xử lí bán hàng
+- Cập nhật giỏ hàng
+- Quản lí nhân viên
+- Quản lí khách hàng
+Quang Võ
+- Xem chi tiết hoá đơn
+- Xem chi tiết phiếu nhập hàng
+- Nhập hàng
+Thái Hùng
+- Quản lý mặt hàng
+- Xuất dữ liệu ra excel
+Quân Phạm
+- Đăng nhập
+- Xem lịch sử giao dịch
+
+----------------------------------------------------------
+Mỗi người làm FU+AD+SD của từng chức năng được giao.
+Thiết kế sơ đồ class, sơ đồ ERD - Lộc
+Thiết kế giao diện phần mềm - Thái, Quang, Quân
